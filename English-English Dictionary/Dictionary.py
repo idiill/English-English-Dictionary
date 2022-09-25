@@ -1,6 +1,5 @@
-import json
+import json,time,sys
 from difflib import get_close_matches as match
-import time,sys
 
 #To use the dictionary, you need to download the json file I uploaded.
 
